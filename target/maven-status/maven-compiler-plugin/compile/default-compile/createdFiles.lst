@@ -1,7 +1,0 @@
-fr\boutique\LigneCommande.class
-fr\boutique\Commande.class
-fr\boutique\ServiceCommande.class
-fr\boutique\DepotStock.class
-fr\boutique\StockInsuffisantException.class
-fr\boutique\Panier.class
-fr\boutique\Article.class
